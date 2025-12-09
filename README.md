@@ -87,7 +87,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews) 📘
 * [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
 * [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
-* [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
 * [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
 * [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
 * [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query) 📘
@@ -117,8 +116,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Classic Machine Learning Algorithms
 
-* [All Learning Algorithms Explained in 14 Minutes](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
-
 ### 1. Logistic Regression
 
 * [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
@@ -142,11 +139,9 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ### 3. Tree Based/Ensemble Algorithms
 
 * [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
-* [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
 * [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
 * [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631) 📘
 * [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 📘
-* [The Simple Math behind 3 Decision Tree Splitting criterions](https://mlwhiz.com/blog/2019/11/12/dtsplits/) 📘
 
 
 ### 4. K-Nearest-Neighbors
@@ -157,8 +152,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE) 📹
 
 ### 5. Support Vector Machines
-
-* [All about SVMs - Math, Terminology, Intuition, Kernels in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) 📘
 * [25 Questions to test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/) 📘
 
 ### 6. Naive Bayes
@@ -189,7 +182,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Deep Learning
 * [Why Regularization reduces overfitting in Deep Neural Networks](https://www.youtube.com/watch?v=4nqD5TBlOWU) 📹
-* [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b) 📘
 * [When not to use Neural Networks](https://medium.com/datadriveninvestor/when-not-to-use-neural-networks-89fb50622429) 📘
 * [40 Questions to test a Data Scientist on Deep learning](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/) 📘
 * [21 Popular Deep Learning Interview Questions](https://www.analyticsvidhya.com/blog/2020/04/comprehensive-popular-deep-learning-interview-questions-answers/) 📘
@@ -198,7 +190,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Vanishing and Exploding Gradient - Clearly Explained](https://www.youtube.com/watch?v=qO_NLVjD6zE) 📹
 * [Bias and Variance - Very clearly explained](https://www.youtube.com/watch?v=EuBBz3bI-aA) 📹
 * [Why use ReLU over Sigmoid](https://stats.stackexchange.com/questions/126238/what-are-the-advantages-of-relu-over-sigmoid-function-in-deep-neural-networks) 📘
-* [25 Deep Learning Interview Qurstions to test your knowledge](https://towardsdatascience.com/50-deep-learning-interview-questions-part-1-2-8bbc8a00ec61) 📘
 * [10 Deep Learning Best Practices to Keep in Mind in 2020](https://nanonets.com/blog/10-best-practices-deep-learning/) 📘
 
 
@@ -282,7 +273,6 @@ Going through these will definately add extra brownie points, so don't miss thes
 ## Data Structures and Algorithms(Optional)
 Although this might be optional, but do not miss this if the Job Description explicitly asks for this, and especially never miss this if you are interviewing at FAANG and similar organizations, or if you have a CS Background. You don't have to be as good as an SDE at this, but at least know the basics.
 
-* [A Data Scientist's guide to Data Structures and Algorithms](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0) 📘
 * [Handling Trees in Data Science Algorithmic Interview](https://towardsdatascience.com/handling-trees-in-data-science-algorithmic-interview-ea14dd1b6236) 📘
 * [A simple introduction to Linked Lists for Data Scientists](https://mlwhiz.com/blog/2020/01/28/ll/) 📘
 * [Dynamic Programming for Data Scientists](https://mlwhiz.com/blog/2020/01/28/dp/) 📘
