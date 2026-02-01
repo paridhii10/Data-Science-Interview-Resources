@@ -225,7 +225,6 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 ***
 ## Machine Learning Interpretability
-* [Four Questions on Deciphering the World of Machine Learning Models](https://narrativescience.com/resource/blog/machine-learning-models/) 📘
 * [Machine Learning Explanaibility - Crash Course by Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) 📘
 * [SHAP Values explained simply](https://www.youtube.com/watch?v=VB9uV-x0gtg) 📹
 
@@ -234,14 +233,10 @@ This is probably the entry point of your Data Science project, SQL is one of the
 Case studies are extremely important for interviews, below are some resources to practice, think first before looking at the solutions.
 * [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/) 📘
 * [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/) 📘
-* [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/) 📘
-* [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654) 📘
-* [End-to-End multiclass Text Classification pipeline](https://mlwhiz.com/blog/2020/05/24/multitextclass/) 📘
-* [End-to-End multiclass Image Classification pipeline](https://mlwhiz.com/blog/2020/06/06/multiclass_image_classification_pytorch/) 📘
 * [Large Scale Forecasting for 1000+ products - Nagarro](https://www.youtube.com/watch?v=8jfDBD6xlFM) 📹
 * [Clustering and Classification in E-Commerce](https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/) 📘
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/) 📘
-* [Data Science Case Study: Optimizing Product Placement in Retail ](https://towardsdatascience.com/data-science-case-study-optimizing-product-placement-in-retail-part-1-2e8b27e16e8d) 📘
+
 
 ***
 ## NLP
